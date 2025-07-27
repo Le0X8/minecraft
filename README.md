@@ -15,7 +15,7 @@ For bad hardware like my old laptop.
 - [HDSkins](https://flintmc.net/modification/9.hdskins) (Flint)
 - [No Pumpkin Blur](https://flintmc.net/modification/168.nopumpkinblur) (Flint)
 - [Advanced Tooltip](https://flintmc.net/modification/79.advancedtooltip) (Flint)
-- [WAILA](https://flintmc.net/modification/105.waila) (Flint)
+- ~~[WAILA](https://flintmc.net/modification/105.waila) (Flint)~~
 - [GlobalChat](https://flintmc.net/modification/32.globalchat) (Flint)
 - [Better Achievements](https://flintmc.net/modification/62.managedachievement) (Flint)
 - [ReplayMod](https://flintmc.net/modification/161.replaymod_loader) (Flint)
