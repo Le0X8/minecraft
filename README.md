@@ -9,6 +9,8 @@
 
 For bad hardware like my old laptop.
 
+#### Mods
+
 - [Flux](https://flintmc.net/modification/40.flux) (Flint)
 - [Sodium](https://modrinth.com/mod/sodium) (Fabric)
 - [Full Bright](https://flintmc.net/modification/18.fullbright) (Flint)
@@ -18,7 +20,11 @@ For bad hardware like my old laptop.
 - ~~[WAILA](https://flintmc.net/modification/105.waila) (Flint)~~
 - [GlobalChat](https://flintmc.net/modification/32.globalchat) (Flint)
 - ~~[Better Achievements](https://flintmc.net/modification/62.managedachievement) (Flint)~~
-- [ReplayMod](https://flintmc.net/modification/161.replaymod_loader) (Flint)
-- [NBT Viewer](https://flintmc.net/modification/172.nbt-viewer) (Flint)
+- ~~[ReplayMod](https://flintmc.net/modification/161.replaymod_loader) (Flint)~~
+- ~~[NBT Viewer](https://flintmc.net/modification/172.nbt-viewer) (Flint)~~
 - [Entity Culling](https://modrinth.com/mod/entityculling) (Fabric)
 - [WorldEdit](https://modrinth.com/plugin/worldedit?loader=fabric&version=1.21.5#download) (Fabric; download it manually and copy it into `.minecraft/labymod-neo/modpacks/performance/fabric/1.21.5/mods`)
+
+#### Configuration
+
+- Classic theme
