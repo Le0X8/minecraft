@@ -17,7 +17,7 @@ For bad hardware like my old laptop.
 - [Advanced Tooltip](https://flintmc.net/modification/79.advancedtooltip) (Flint)
 - ~~[WAILA](https://flintmc.net/modification/105.waila) (Flint)~~
 - [GlobalChat](https://flintmc.net/modification/32.globalchat) (Flint)
-- [Better Achievements](https://flintmc.net/modification/62.managedachievement) (Flint)
+- ~~[Better Achievements](https://flintmc.net/modification/62.managedachievement) (Flint)~~
 - [ReplayMod](https://flintmc.net/modification/161.replaymod_loader) (Flint)
 - [NBT Viewer](https://flintmc.net/modification/172.nbt-viewer) (Flint)
 - [Entity Culling](https://modrinth.com/mod/entityculling) (Fabric)
